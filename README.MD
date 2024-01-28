@@ -1,0 +1,1 @@
+This was a personal project of mine to revise for a statistics exam. I used R to analyze the effect of my daily activity score (percentage-based) on the following night's sleep score (0-100) as provided by a Polar Ignite 3 fitness watch.
